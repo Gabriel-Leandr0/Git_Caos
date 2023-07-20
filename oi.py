@@ -1,1 +1,0 @@
-nomes = ['Ryan', 'Gabriel', 'Diogo', 'Lucas']
